@@ -72,7 +72,7 @@ source venv/bin/activate  # Windows: venv\\Scripts\\activate
 Instala las dependencias:
 pip install -r requirements.txt
 
-## Ejecución del Análisis
+### Ejecución del Análisis
 
 notebooks/analisis_alura_store.ipynb
 
@@ -80,7 +80,7 @@ Puedes abrirlo con:
 jupyter notebook
 
 ---
-### Análisis Realizados
+# Análisis Realizados
 1. Análisis de Facturación
 
 Comparación de ingresos totales por tienda para evaluar el rendimiento comercial general.
