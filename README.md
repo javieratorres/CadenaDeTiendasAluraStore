@@ -79,6 +79,7 @@ notebooks/analisis_alura_store.ipynb
 Puedes abrirlo con:
 jupyter notebook
 
+---
 ### Análisis Realizados
 1. Análisis de Facturación
 
@@ -106,6 +107,7 @@ Exploración de patrones geográficos basados en latitud y longitud de las venta
 
 Ejemplo de visualización:
 
+---
 ### Principales Hallazgos
 
 Tienda 1: mayor ingreso total, pero con fuerte concentración geográfica.
@@ -116,6 +118,7 @@ Tienda 3 y Tienda 4: análisis pendientes (se agregará al README una vez dispon
 
 Tienda 4 presenta menor facturación general en comparación con las demás.
 
+---
 ### Limitaciones del Análisis
 
 El período temporal de los datos no fue considerado.
@@ -126,6 +129,7 @@ El análisis geográfico no está cuantitativamente integrado a otras métricas.
 
 Variables externas como competencia regional o socioeconómicas no fueron incorporadas.
 
+---
 ### Líneas Futuras de Análisis
 
 Evaluar tendencias por períodos (mensual/anual).
@@ -136,6 +140,7 @@ Expandir análisis geográfico cuantitativo.
 
 Construir modelos predictivos para escenarios de ventas.
 
+---
 ### Autora
 
 Javiera Alejandra Torres Vergara
@@ -143,6 +148,7 @@ Estudiante de Data Science
 
 Proyecto realizado como parte del desafío Alura Store.
 
+---
 ### Licencia
 
 Este proyecto está bajo Licencia MIT.
